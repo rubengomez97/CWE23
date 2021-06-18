@@ -1,0 +1,8 @@
+ 
+"-cp" 
+"C:\Users\Ruben\Documents\TFM\Juliet_Test_Suite_v1.3_for_Java\Java\src\testcases\CWE23_Relative_Path_Traversal\antbuild" 
+"-source" 
+"1.8" 
+"-exclude" "C:\Users\Ruben\Documents\TFM\Juliet_Test_Suite_v1.3_for_Java\Java\src\testcases\CWE23_Relative_Path_Traversal\**\*.jar" 
+"-exclude" "C:\Users\Ruben\Documents\TFM\Juliet_Test_Suite_v1.3_for_Java\Java\src\testcases\CWE23_Relative_Path_Traversal\**\*.class" 
+"C:\Users\Ruben\Documents\TFM\Juliet_Test_Suite_v1.3_for_Java\Java\src\testcases\CWE23_Relative_Path_Traversal" 
